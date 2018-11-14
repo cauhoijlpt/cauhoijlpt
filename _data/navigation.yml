@@ -6,7 +6,7 @@
   url: "/getting-started/"
   side: left
 
-- title: "Templates"
+- title: "JLPT-N5"
   url: "/design/"
   side: left
   dropdown:
@@ -31,7 +31,7 @@
   - title: "Portfolio"
     url: "/design/portfolio/"
 
-- title: "Header Styles"
+- title: "JLPT-N4"
   url: "/headers/"
   side: left
   dropdown:
@@ -50,7 +50,7 @@
   - title: "No Header but Image"
     url: "/design/no-header-but-image/"
 
-- title: Documentation
+- title: "JLPT-N3"
   url: "/documentation/"
   side: left
   dropdown:
@@ -59,7 +59,7 @@
   - title: "Roadmap"
     url: "/roadmap/"
 
-- title: Blog
+- title: "JLPT-N2"
   url: "/blog/"
   side: left
   dropdown:
