@@ -1,12 +1,12 @@
-- title: ホーム
+- title: "Trang chủ"
   url: "/"
   side: left
 
-- title: Getting Started
+- title: "Nhập môn"
   url: "/getting-started/"
   side: left
 
-- title: "JLPT-N5"
+- title: "Sơ cấp"
   url: "/design/"
   side: left
   dropdown:
@@ -31,7 +31,7 @@
   - title: "Portfolio"
     url: "/design/portfolio/"
 
-- title: "JLPT-N4"
+- title: "JLPT"
   url: "/headers/"
   side: left
   dropdown:
@@ -50,7 +50,7 @@
   - title: "No Header but Image"
     url: "/design/no-header-but-image/"
 
-- title: "JLPT-N3"
+- title: "JTest"
   url: "/documentation/"
   side: left
   dropdown:
@@ -59,17 +59,38 @@
   - title: "Roadmap"
     url: "/roadmap/"
 
-- title: "JLPT-N2"
+- title: "Tổng hợp"
   url: "/blog/"
   side: left
   dropdown:
   - title: "Blog Archive"
     url: "/blog/archive/"
 
-- title: "Search"
+- title: "Sách ôn tập"
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "Blog Archive"
+    url: "/blog/archive/"
+
+- title: "Download tài liệu"
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "Blog Archive"
+    url: "/blog/archive/"
+
+- title: "Chia sẽ kinh nghiệm"
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "Blog Archive"
+    url: "/blog/archive/"
+
+- title: "Tra cứu"
   url: "/search/"
   side: right
 
-- title: "Contact"
+- title: "Liên hệ"
   url: "/contact/"
   side: right
