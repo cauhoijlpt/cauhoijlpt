@@ -47,20 +47,14 @@
     url: "/design/no-header/"
   - title: "No Header but Image"
     url: "/design/no-header-but-image/"
-
-- title: "JLPT Quiz"
-  side: left
-  dropdown:
-  - title: "Trắc nghiệm1"
-    url: "/pages/MyPage.html"
-
+    
 - title: "Tổng hợp"
   url: "/blog/"
   side: left
   dropdown:
   - title: "Blog Archive"
     url: "/blog/archive/"
-
+    
 - title: "Tài liệu & Download"
   url: "/blog/"
   side: left
@@ -75,10 +69,17 @@
   - title: "Blog Archive"
     url: "/blog/archive/"
     
+- title: "Liên hệ"
+  url: "/contact/"
+  side: left
+
+- title: "Trắc nghiệm"
+  side: right
+  dropdown:
+  - title: "Trắc nghiệm1"
+    url: "/pages/MyPage.html"
+    
 - title: "Tra cứu"
   url: "/search/"
   side: right
 
-- title: "Liên hệ"
-  url: "/contact/"
-  side: right
