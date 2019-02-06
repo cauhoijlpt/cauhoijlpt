@@ -45,8 +45,8 @@
     url: "/design/header-with-text/"
   - title: "No Header"
     url: "/design/no-header/"
-  - title: "No Header but Image"
-    url: "/design/no-header-but-image/"
+  - title: "★Trắc nghiệm"
+    url: "/pages/MyPage.html"
     
 - title: "N4"
   url: "/headers/"
@@ -64,8 +64,8 @@
     url: "/design/header-with-text/"
   - title: "No Header"
     url: "/design/no-header/"
-  - title: "No Header but Image"
-    url: "/design/no-header-but-image/"
+  - title: "★Trắc nghiệm"
+    url: "/pages/MyPage.html"
 - title: "N3"
   url: "/headers/"
   side: left
@@ -82,8 +82,8 @@
     url: "/design/header-with-text/"
   - title: "No Header"
     url: "/design/no-header/"
-  - title: "No Header but Image"
-    url: "/design/no-header-but-image/"
+  - title: "★Trắc nghiệm"
+    url: "/pages/MyPage.html"
 - title: "N2"
   url: "/headers/"
   side: left
@@ -100,8 +100,8 @@
     url: "/design/header-with-text/"
   - title: "No Header"
     url: "/design/no-header/"
-  - title: "No Header but Image"
-    url: "/design/no-header-but-image/"   
+  - title: "★Trắc nghiệm"
+    url: "/pages/MyPage.html"   
 - title: "N1"
   url: "/headers/"
   side: left
@@ -118,8 +118,8 @@
     url: "/design/header-with-text/"
   - title: "No Header"
     url: "/design/no-header/"
-  - title: "No Header but Image"
-    url: "/design/no-header-but-image/"
+  - title: "★Trắc nghiệm"
+    url: "/pages/MyPage.html"
 - title: "2136 Kanji"
   url: "/headers/"
   side: left
@@ -154,10 +154,4 @@
     
 - title: "Liên hệ"
   url: "/contact/"
-  side: left
-
-- title: "★Trắc nghiệm★"
   side: right
-  dropdown:
-  - title: "Trắc nghiệm1"
-    url: "/pages/MyPage.html"
