@@ -161,8 +161,3 @@
   dropdown:
   - title: "Trắc nghiệm1"
     url: "/pages/MyPage.html"
-    
-- title: "Tra cứu"
-  url: "/search/"
-  side: right
-
