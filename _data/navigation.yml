@@ -29,7 +29,7 @@
   - title: "Portfolio"
     url: "/design/portfolio/"
 
-- title: "JLPT"
+- title: "N5"
   url: "/headers/"
   side: left
   dropdown:
@@ -48,20 +48,90 @@
   - title: "No Header but Image"
     url: "/design/no-header-but-image/"
     
+- title: "N4"
+  url: "/headers/"
+  side: left
+  dropdown:
+  - title: "Header with Full-Width-Image"
+    url: "/design/header-full-width-image/"
+  - title: "Header with Image and Pattern"
+    url: "/design/header-image-pattern/"
+  - title: "Header with image and color"
+    url: "/design/header-image-color/"
+  - title: "Header Only With Logo"
+    url: "/design/header-logo-only/"
+  - title: "Header With Text"
+    url: "/design/header-with-text/"
+  - title: "No Header"
+    url: "/design/no-header/"
+  - title: "No Header but Image"
+    url: "/design/no-header-but-image/"
+- title: "N3"
+  url: "/headers/"
+  side: left
+  dropdown:
+  - title: "Header with Full-Width-Image"
+    url: "/design/header-full-width-image/"
+  - title: "Header with Image and Pattern"
+    url: "/design/header-image-pattern/"
+  - title: "Header with image and color"
+    url: "/design/header-image-color/"
+  - title: "Header Only With Logo"
+    url: "/design/header-logo-only/"
+  - title: "Header With Text"
+    url: "/design/header-with-text/"
+  - title: "No Header"
+    url: "/design/no-header/"
+  - title: "No Header but Image"
+    url: "/design/no-header-but-image/"
 - title: "Tổng hợp"
   url: "/blog/"
   side: left
   dropdown:
   - title: "Blog Archive"
     url: "/blog/archive/"
-    
+- title: "N2"
+  url: "/headers/"
+  side: left
+  dropdown:
+  - title: "Header with Full-Width-Image"
+    url: "/design/header-full-width-image/"
+  - title: "Header with Image and Pattern"
+    url: "/design/header-image-pattern/"
+  - title: "Header with image and color"
+    url: "/design/header-image-color/"
+  - title: "Header Only With Logo"
+    url: "/design/header-logo-only/"
+  - title: "Header With Text"
+    url: "/design/header-with-text/"
+  - title: "No Header"
+    url: "/design/no-header/"
+  - title: "No Header but Image"
+    url: "/design/no-header-but-image/"    
 - title: "Tài liệu & Download"
   url: "/blog/"
   side: left
   dropdown:
   - title: "Blog Archive"
     url: "/blog/archive/"
-
+- title: "N1"
+  url: "/headers/"
+  side: left
+  dropdown:
+  - title: "Header with Full-Width-Image"
+    url: "/design/header-full-width-image/"
+  - title: "Header with Image and Pattern"
+    url: "/design/header-image-pattern/"
+  - title: "Header with image and color"
+    url: "/design/header-image-color/"
+  - title: "Header Only With Logo"
+    url: "/design/header-logo-only/"
+  - title: "Header With Text"
+    url: "/design/header-with-text/"
+  - title: "No Header"
+    url: "/design/no-header/"
+  - title: "No Header but Image"
+    url: "/design/no-header-but-image/"
 - title: "Chia sẽ kinh nghiệm"
   url: "/blog/"
   side: left
