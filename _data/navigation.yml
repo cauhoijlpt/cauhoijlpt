@@ -1,12 +1,10 @@
 - title: "Trang chủ"
   url: "/"
   side: left
-
-- title: "Nhập môn"
+  
+- title: "Sơ cấp"
   url: "/getting-started/"
   side: left
-
-- title: "Sơ cấp"
   url: "/design/"
   side: left
   dropdown:
