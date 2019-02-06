@@ -61,14 +61,7 @@
   - title: "Blog Archive"
     url: "/blog/archive/"
 
-- title: "Sách ôn tập"
-  url: "/blog/"
-  side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
-
-- title: "Download tài liệu"
+- title: "Tài liệu & Download"
   url: "/blog/"
   side: left
   dropdown:
