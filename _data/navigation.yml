@@ -121,13 +121,13 @@
   - title: "★Trắc nghiệm"
     url: "/pages/MyPage.html"
 - title: "2136 Kanji"
-  url: "/headers/"
+  url: "/2136Kanji/"
   side: left
   dropdown:
-  - title: "Header with Full-Width-Image"
-    url: "/design/header-full-width-image/"
-  - title: "Header with Image and Pattern"
-    url: "/design/header-image-pattern/"
+  - title: "214 Bộ thủ hán tự"
+    url: "/2136Kanji/header-full-width-image/"
+  - title: "Hán tự bộ Kim"
+    url: "/2136Kanji/header-image-pattern/"
   - title: "Header with image and color"
     url: "/design/header-image-color/"
   - title: "Header Only With Logo"
