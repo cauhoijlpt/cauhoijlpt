@@ -54,20 +54,6 @@
   - title: "Trắc nghiệm1"
     url: "/pages/MyPage.html"
 
-- title: "JTest"
-  url: "/documentation/"
-  side: left
-  dropdown:
-  - title: "Changelog"
-    url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
-- title: "JTEST Quiz"
-  side: left
-  dropdown:
-  - title: "Trắc nghiệm1"
-    url: "/pages/MyPage.html"
-
 - title: "Tổng hợp"
   url: "/blog/"
   side: left
