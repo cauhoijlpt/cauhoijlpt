@@ -84,12 +84,6 @@
     url: "/design/no-header/"
   - title: "No Header but Image"
     url: "/design/no-header-but-image/"
-- title: "Tổng hợp"
-  url: "/blog/"
-  side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
 - title: "N2"
   url: "/headers/"
   side: left
@@ -107,13 +101,7 @@
   - title: "No Header"
     url: "/design/no-header/"
   - title: "No Header but Image"
-    url: "/design/no-header-but-image/"    
-- title: "Tài liệu & Download"
-  url: "/blog/"
-  side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
+    url: "/design/no-header-but-image/"   
 - title: "N1"
   url: "/headers/"
   side: left
@@ -132,6 +120,20 @@
     url: "/design/no-header/"
   - title: "No Header but Image"
     url: "/design/no-header-but-image/"
+- title: "Tổng hợp"
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "Blog Archive"
+    url: "/blog/archive/"
+ 
+- title: "Tài liệu & Download"
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "Blog Archive"
+    url: "/blog/archive/"
+
 - title: "Chia sẽ kinh nghiệm"
   url: "/blog/"
   side: left
