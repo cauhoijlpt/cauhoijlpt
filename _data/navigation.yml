@@ -151,13 +151,6 @@
   dropdown:
   - title: "Blog Archive"
     url: "/blog/archive/"
-
-- title: "Chia sẽ kinh nghiệm"
-  url: "/blog/"
-  side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
     
 - title: "Liên hệ"
   url: "/contact/"
